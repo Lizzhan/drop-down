@@ -1,0 +1,1 @@
+(()=>{const e=document.getElementsByClassName("dropbtn")[0],s=document.getElementsByClassName("drop-down")[0];e.addEventListener("click",(()=>{s.classList.remove("hidden")}))})();
